@@ -2,7 +2,7 @@
 title: "range based ANOM"
 author: "Ben Jepson"
 date: "2023-09-23"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
